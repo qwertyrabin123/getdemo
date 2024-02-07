@@ -47,3 +47,10 @@ git config --global  credential.username qwertyrabin123
 
 //push means to upload to git
 git push origin 
+
+//pull means download
+git pull
+
+//clone means to copy the the github data to the local pc
+git clone url of the repo
+
