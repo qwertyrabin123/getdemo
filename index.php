@@ -24,3 +24,5 @@ shorten for git commit -m
 git log -> to log the version
 git log --all ->more detail log
 
+//ignor the file
+.gitignore file in the working directory
