@@ -60,5 +60,8 @@ git push origin main --set-upstream
 -f means force push
  git push origin master -f
 
- rabinawale
- dob: 23 april
+
+ // to syn we use 
+ git fetch to sync with remote reportiatry
+
+ git pull origin main --set-upstream to use only git pull
