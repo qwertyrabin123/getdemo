@@ -53,4 +53,3 @@ git pull
 
 //clone means to copy the the github data to the local pc
 git clone url of the repo
-
