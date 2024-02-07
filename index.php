@@ -26,3 +26,24 @@ git log --all ->more detail log
 
 //ignor the file
 .gitignore file in the working directory
+
+
+//remove the git 
+rm -rf .git 
+
+
+
+////upload portion
+
+git remote add origin url 
+for example
+git remote add origin https://github.com/qwertyrabin123/getdemo
+
+git remote -v to get the detail of the origin remote reportiatry
+
+to let the github know about us 
+git config --global  credential.username qwertyrabin123
+
+
+//push means to upload to git
+git push origin 
