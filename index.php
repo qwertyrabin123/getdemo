@@ -65,8 +65,6 @@ git push origin main --set-upstream
  git fetch to sync with remote reportiatry
 
  git pull origin main --set-upstream to use only git pull
-
-rabinawale
-dob 23 april 1995
-pa117433
-anisha khakda
+//
+delete a branch
+git branch -D branchname
