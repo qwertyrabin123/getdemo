@@ -66,5 +66,16 @@ git push origin main --set-upstream
 
  git pull origin main --set-upstream to use only git pull
 //
+
+//create a new brand
+git branch feature1
+
+//swtich to branch
+git checkout branchname
+
+
 delete a branch
 git branch -D branchname
+
+
+
